@@ -15,7 +15,7 @@ name                     : &name "Gregorio Ghetti"
 description              : &description "PhD candidate in Economics and Statistics, UNIMIB. Research Fellow (external consultant), ECB DG-MF, macroprudential policy division"
 url                      : https://greggh95.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-# repository               : "academicpages/academicpages.github.io"
+repository               : # "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,19 +25,19 @@ author:
   avatar           : "profile.png"
   name             : "Gregorio Ghetti"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD candidate in Economics and Statistics, UNIMIB. Research Fellow (external consultant), ECB DG-MF, macroprudential policy division"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "University of Milan-Bicocca | European Central Bank"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "gregorio.ghetti59@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0002-8622-9430"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
