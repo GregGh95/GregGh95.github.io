@@ -8,7 +8,7 @@ date: 2023-01-01
 location: "Bologna, Italy"
 ---
 
-"Macroeconomics", M.Sc. in Economics and Econometrics (EC2), by Prof. Paolo Manasse (DSE, UNIBO).
+"Macroeconomics", M.Sc. in Economics and Econometrics ({EC}^{2}), by Prof. Paolo Manasse (DSE, UNIBO).
 
 Heading 1
 ======
