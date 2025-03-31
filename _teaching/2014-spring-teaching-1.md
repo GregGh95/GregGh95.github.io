@@ -8,7 +8,7 @@ date: 2022-04-01
 location: "Milan, Italy"
 ---
 
-Graduate course "Global Macroeconomics", M.Sc. in International Economics, taught by Prof. Gino Alessandro Gancia. Spring 2022
+"Global Macroeconomics", M.Sc. in International Economics, taught by Prof. Gino Alessandro Gancia
 
 Heading 1
 ======
