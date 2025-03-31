@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Gregorio Ghetti"
+title                    : #"Gregorio Ghetti"
 title_separator          : "-"
 name                     : &name "Gregorio Ghetti"
 description              : &description "PhD candidate in Economics and Statistics, UNIMIB. Research Fellow (external consultant), ECB DG-MF, macroprudential policy division"
@@ -80,9 +80,9 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Work in Progess'    
   conferences:
-    title: 'Conference Papers'
+    title: 'Policy Work'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
