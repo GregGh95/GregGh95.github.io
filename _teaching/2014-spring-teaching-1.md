@@ -4,7 +4,7 @@ collection: teaching
 type: "graduate course"
 permalink: #/teaching/2014-spring-teaching-1
 venue: "University of Milan-Bicocca, Department of Economics, Management and Statistics DEMS"
-date: spring 2022
+date: 2022
 location: "Milan, Italy"
 ---
 
