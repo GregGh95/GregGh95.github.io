@@ -1,14 +1,14 @@
 ---
-title: "TA advanced macroecononomics"
+title: "Teaching Assistant - advanced macroecononomics"
 collection: teaching
 type: "graduate course"
 permalink: #/teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of Milan-Bicocca, Department of Economics, Management and Statistics DEMS"
+date: spring 2022
+location: "Milan, Italy"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Graduate course "Global Macroeconomics", M.Sc. in International Economics, taught by Prof. Gino Alessandro Gancia.
 
 Heading 1
 ======
