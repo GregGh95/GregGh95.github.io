@@ -8,7 +8,7 @@ date: 2022-04-01
 location: "Milan, Italy"
 ---
 
-"Global Macroeconomics", M.Sc. in International Economics, taught by Prof. Gino Alessandro Gancia
+"Global Macroeconomics", M.Sc. in International Economics, taught by Prof. Gino Alessandro Gancia (DEMS, UNIMIB).
 
 Heading 1
 ======
