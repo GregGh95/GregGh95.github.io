@@ -9,8 +9,7 @@ redirect_from:
 
 PhD candidate in Economics at Università Milano-Bicocca (UNIMIB), Milan &
 Research Fellow (external consultant) at European Central Bank (ECB), Frankfurt am Main. 
-
-Born in Ravenna.
 Research Interests: Macroeconomics, Firm Dynamics, Asset Pricing.
 
+Born in Ravenna.
 ![Profile Picture](images/mosaic.jfif)
