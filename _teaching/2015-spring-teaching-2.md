@@ -8,13 +8,4 @@ date: 2023-01-01
 location: "Bologna, Italy"
 ---
 
-"Macroeconomics", M.Sc. in Economics and Econometrics ({EC}^{2}), taught by Prof. Paolo Manasse (DSE, UNIBO).
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+"*Macroeconomics*", M.Sc. in Economics and Econometrics ({EC}^{2}), taught by Prof. Paolo Manasse (DSE, UNIBO).
