@@ -1,9 +1,8 @@
 ---
-layout: archive
-title: ""
-permalink: /portfolio/
+permalink: /
+title: " "
 author_profile: true
----
+redirect_from: 
 
 
 Stand for Ukraine
