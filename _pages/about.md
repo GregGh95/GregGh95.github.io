@@ -10,7 +10,7 @@ redirect_from:
 **PhD candidate in Economics, Statistics and Data Science** (ECOSTATDATA) at **Università Milano-Bicocca** (UNIMIB), Milan &
 **Research Fellow (external consultant)** at **European Central Bank** (ECB), Frankfurt am Main. 
 
-**Research Interests**: *Macroeconomics, Firm Dynamics, Asset Pricing*.
+**Research Interests**: *Macroeconomics, Firm Dynamics, Asset Pricing*. \
 You find my CV here: [CV](files/CV_GG.pdf)
 
 Born in Ravenna.
