@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-**PhD candidate in Economics at Università Milano-Bicocca** (UNIMIB), Milan &
-**Research Fellow (external consultant) at European Central Bank** (ECB), Frankfurt am Main. 
+**PhD candidate in Economics, Statistics and Data Science** (ECOSTATDATA) at **Università Milano-Bicocca** (UNIMIB), Milan &
+**Research Fellow (external consultant)** at **European Central Bank** (ECB), Frankfurt am Main. 
 
 **Research Interests**: *Macroeconomics, Firm Dynamics, Asset Pricing*.
 
