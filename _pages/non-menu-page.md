@@ -10,7 +10,7 @@ redirect_from:
 Stand for Ukraine
 ==
 
-Support and donations for Ukraine fight for prosperity, indipendence, and liberty against the brutal and barbaric russian invasion through:
+Support and donations for Ukraine's fight for prosperity, indipendence, and liberty against the brutal and barbaric russian invasion through:
 
 1) [UNITED24](https://u24.gov.ua/)
 
