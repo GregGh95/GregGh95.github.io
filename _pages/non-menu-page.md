@@ -18,4 +18,4 @@ Support and donations for Ukraine's fight for prosperity, indipendence, and libe
 
 3) [RAZOM FOR UKRAINE](https://www.razomforukraine.org/donate/)
 
-![Profile Picture](GregGh95.github.io/images/ukraineflags.jpeg)
+![Profile Picture](/images/ukraineflags.jpeg)
