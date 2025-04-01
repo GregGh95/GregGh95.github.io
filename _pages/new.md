@@ -1,8 +1,7 @@
----
-permalink: /
-title: " "
+layout: archive
+title: ""
+permalink: /new/
 author_profile: true
-redirect_from: 
 
 
 Stand for Ukraine
