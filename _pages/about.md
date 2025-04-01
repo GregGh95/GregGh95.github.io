@@ -11,6 +11,7 @@ redirect_from:
 **Research Fellow (external consultant)** at **European Central Bank** (ECB), Frankfurt am Main. 
 
 **Research Interests**: *Macroeconomics, Firm Dynamics, Asset Pricing*.
+You find my CV here: [CV](files/CV_GG.pdf)
 
 Born in Ravenna.
 
