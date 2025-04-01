@@ -12,4 +12,5 @@ Research Fellow (external consultant) at European Central Bank (ECB), Frankfurt 
 Research Interests: Macroeconomics, Firm Dynamics, Asset Pricing.
 
 Born in Ravenna.
+
 ![Profile Picture](images/mosaic.jfif)
