@@ -8,5 +8,3 @@ Support and donations for Ukraine fight for prosperity, indipendence, and libert
 2) [LIBERTY UKRAINE](https://www.libertyukraine.org/)
 
 3) [RAZOM FOR UKRAINE](https://www.razomforukraine.org/donate/)
-
-#![ukr](images/ukraineflags.jpeg)
