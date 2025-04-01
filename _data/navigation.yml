@@ -23,8 +23,8 @@ main:
   #- title: "Random"
   #  url: /random/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #  url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
