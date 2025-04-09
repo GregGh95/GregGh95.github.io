@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Research & Policy"
 permalink: /cv-json/
 author_profile: false
 redirect_from:
