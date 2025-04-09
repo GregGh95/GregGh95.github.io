@@ -26,8 +26,8 @@ main:
   # - title: "CV"
   #  url: /cv/
     
-  # - title: "CV"
-  #   url: /cv-json/
+  - title: "CV"
+    url: /cv-json/
     
   #- title: "Guide"
   #  url: /markdown/
@@ -35,5 +35,5 @@ main:
   - title: "Random"
     url: /non-menu-page/ 
 
- - title: "Reseach"
-    url: /research/ 
+  #- title: "Reseach"
+  #  url: /research/ 
