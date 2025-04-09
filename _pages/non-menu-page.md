@@ -1,7 +1,7 @@
 ---
 permalink: /non-menu-page/
 title: ""
-author_profile: true
+author_profile: false
 redirect_from: 
   - "/nmp/"
   - "/nmp.html"
