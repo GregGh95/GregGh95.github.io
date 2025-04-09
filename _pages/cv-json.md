@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+## Publications
+
+## Policy
+
 ## Work in Progress
 
 
@@ -20,7 +24,4 @@ This study examines how monetary policy impacts the conditional variation of the
 
 * ### Determinants of house prices in the Euro Area <br>
   with [Giorgia De Nora](https://www.ecb.europa.eu/pub/research/authors/profiles/giorgia-de-nora.en.html) 
-
-Policy
-==
 
