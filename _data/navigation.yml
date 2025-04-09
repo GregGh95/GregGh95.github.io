@@ -25,12 +25,12 @@ main:
     
   # - title: "CV"
   #  url: /cv/
+
+  - title: "Guide"
+    url: /markdown/
     
   - title: "Research & Policy"
     url: /cv-json/
-    
-  #- title: "Guide"
-  #  url: /markdown/
 
   - title: "Random"
     url: /non-menu-page/ 
