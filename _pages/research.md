@@ -7,5 +7,6 @@ redirect_from:
   - "/rp.html"
 ---
 
-TEST
-==
+{% include base_path %}
+
+test
