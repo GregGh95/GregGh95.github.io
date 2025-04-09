@@ -7,8 +7,6 @@ redirect_from:
   - /rp
 ---
 
-{% include base_path %}
-
 ## Publications
 
 ## Policy
