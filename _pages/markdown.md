@@ -9,9 +9,11 @@ redirect_from:
 
 Graduate Courses (M.Sc.)
 ==
-* **Teaching Assistant** - University of Bologna (UNIBO) Fall 2023\\
-Macroeconomics, M.Sc. in Economics and Econometrics (${EC}^2$), by Prof. Paolo Manasse (DSE, UNIBO)
+* **Teaching Assistant** - University of Bologna (UNIBO) <br>
+  Fall 2023. <br>
+  Macroeconomics, M.Sc. in Economics and Econometrics (${EC}^2$), by Prof. Paolo Manasse (DSE, UNIBO)
 
-* **Teaching Assistant** - University of Milano-Bicocca (UNIMIB) Spring 2023\\
-Global Macroeconomics, M.Sc. in International Economics, by Prof. Gino Alessandro Gancia (DEMS, UNIMIB)
+* **Teaching Assistant** - University of Milano-Bicocca (UNIMIB) <br>
+  Spring 2023. <br>
+  Global Macroeconomics, M.Sc. in International Economics, by Prof. Gino Alessandro Gancia (DEMS, UNIMIB)
 
