@@ -7,12 +7,11 @@ redirect_from:
   - /rp
 ---
 
-### Publications
+## Publications
 
-### Policy
+## Policy
 
-
-### Work in Progress
+## Work in Progress
 
 * **Determinants of house prices in the Euro Area with**, with [Giorgia De Nora](https://www.ecb.europa.eu/pub/research/authors/profiles/giorgia-de-nora.en.html) 
 
