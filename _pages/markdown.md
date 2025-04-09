@@ -7,8 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-Graduate Courses (M.Sc.)
-==
+## Graduate Courses (M.Sc.)
 * **Teaching Assistant** - University of Bologna (UNIBO) <br>
   Fall 2023. <br>
   Macroeconomics, M.Sc. in Economics and Econometrics (${EC}^2$), by Prof. Paolo Manasse (DSE, UNIBO)
