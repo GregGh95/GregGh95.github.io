@@ -14,8 +14,8 @@ You can find the long version of the CV here: [CV](files/CV_GG.pdf)
 Education
 ======
 * Ph.D in Economics and Statistics, University of Milano-Bicocca, 2025 (expected)
-* M.S. in International Economics, University of Milano-Bicocca, 2020
-* B.S. in Political, Social and International Sciences, University of Bologna, 2017
+* M.Sc. in International Economics, University of Milano-Bicocca, 2020
+* B.A. in Political, Social and International Sciences, University of Bologna, 2017
 
 Work experience
 ======
