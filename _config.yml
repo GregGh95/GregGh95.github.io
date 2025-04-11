@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Homepage"
+title                    : "Gregorio Ghetti"
 title_separator          : "-"
 name                     : &name "Gregorio Ghetti"
 description              : &description "PhD candidate in Economics and Statistics, UNIMIB. Research Fellow (external consultant), ECB DG-MF, macroprudential policy division"
