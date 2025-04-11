@@ -22,7 +22,7 @@ repository               : # "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  #avatar           : "profile.png"
   name             : "Gregorio Ghetti"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate in Economics and Statistics, UNIMIB. Research Fellow (external consultant), ECB DG-MF, macroprudential policy division"
@@ -123,7 +123,7 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification :
+google_site_verification : google-site-verification=qzSXE7XuXJ5UZ4pfAH-dG8UGRbT6h0fTFkHjGs8PA_E
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
