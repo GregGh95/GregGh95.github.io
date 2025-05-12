@@ -7,6 +7,8 @@ redirect_from:
   - /rp
 ---
 
+## Ph.D. thesis 
+free access at the following [link](https://hdl.handle.net/10281/550501)
 ## Publications
 
 ## Policy
