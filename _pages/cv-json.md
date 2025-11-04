@@ -7,13 +7,13 @@ redirect_from:
   - /rp
 ---
 ## Job Market Paper
-[PDF](/files/JMP.pdf)
 * **Endogenous firm exit and the Equity Premium**, 2025 \
+[PDF](/files/JMP.pdf) \
 abstract: This paper identifies how macroeconomic shocks shape cyclical fluctuations of the Equity Premium, defined as the expected stock returns in excess of the real risk-free rate, through firm entry and exit dynamics. Building on endogenous product creation under a monopolistic competition framework with heterogeneous firms, we show that aggregate shocks affect expected excess stock returns through the extensive margin of production and wage rigidity. Each firm draws a productivity level from a Pareto distribution, and those below an endogenous cutoff exit the market. Positive aggregate productivity shocks lower this threshold, leading to increased firm entry and reduced exit rates. This, in turn, reduces the equity premium by lowering the risk compensation required for equity. To validate our theoretical framework, we employ a Bayesian VAR model for the US economy augmented for firm entry and exit as an empirical counterpart. Empirical findings and model predictions highlight the countercyclical response of the equity premium to macroeconomic shocks.
 
 ## Working papers
 * **Determinants of house prices in the Euro Area with** (2025), with [Giorgia De Nora (ECB)](https://www.ecb.europa.eu/pub/research/authors/profiles/giorgia-de-nora.en.html) \
-[PDF](/files/ECB_paper.pdf)
+[PDF](/files/ECB_paper.pdf) \
 Abstract: This paper studies the determinants of residential real estate (RRE) prices across eight euro area countries over the period 2003Q1–2019Q4, with a focus on the role of macroeconomic shocks and structural heterogeneity in shaping housing market dynamics. We estimate a panel Bayesian Vector Autoregression (BVAR) with hierarchical priors, which exploits cross-country similarities while allowing for heterogeneous responses to common shocks. Four structural shocks — monetary policy, housing preferences, mortgage supply, and housing supply — are identified using a combination of sign restrictions and high-frequency instruments. Our results highlight substantial cross-country heterogeneity in the transmission of these shocks, with countries exhibiting higher shares of floating-rate mortgages or elevated household debt service ratios showing stronger and more volatile price responses. The analysis also reveals that expansionary monetary policy and positive housing preference shocks have pronounced and persistent effects on RRE prices, with the strength of the response depending on structural features of national housing finance systems. These findings have important implications for monetary and macroprudential policy design, particularly in a currency union with diverse housing market structures. 
 
 ## Academic Publications
