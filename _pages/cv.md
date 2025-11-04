@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-You can find the long version of the CV here: [CV](files/CV_GG.pdf)
+You can find the long version of the CV here: [CV](/files/CV_GG.pdf)
 
 {% include base_path %}
 
