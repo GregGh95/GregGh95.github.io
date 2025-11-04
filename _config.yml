@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Gregorio Ghetti"
-description              : &description "PhD candidate in Economics and Statistics, UNIMIB. Research Fellow (external consultant), ECB DG-MF, macroprudential policy division"
+description              : &description "PhD in Economics and Statistics, UNIMIB. Research Fellow (external consultant), ECB DG-MF, macroprudential policy division"
 url                      : https://greggh95.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # "academicpages/academicpages.github.io"
@@ -22,7 +22,7 @@ repository               : # "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.JPG"
   name             : "Gregorio Ghetti"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. in Economics and Statistics, UNIMIB || Research Fellow, ECB DG-MF, Macroprudential policy division || Economic and Risk assessment, EBA - ERA"
