@@ -1,19 +1,18 @@
 ---
 permalink: /
-title: " "
+title: "Gregorio Ghetti"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-**PhD in Economics, Statistics and Data Science** (ECOSTATDATA) at **Università Milano-Bicocca** (UNIMIB), Milan &
-**Research Fellow** at **European Central Bank** (ECB), Frankfurt am Main. 
+I am a macroeconomist with a Ph.D. in Economics and Statistics from the University of Milano-Bicocca and policy research experience at the European Central Bank and the European Banking Authority.
 
-I have a PhD in Economics and Statistics at the **University of Milano-Bicocca**, under the supervision of [Andrea Colciago](https://www.andreacolciago.com/), **Senior Economist** at the research department of the **Dutch Central Bank** and **Associate Professor of Economics**, **University of Milano-Bicocca** . In 2024, I joined the **European Central Bank** as a PhD trainee in the **Macroprudential Policy Division**, **DG Macroprudential policy and Financial Stability**, where I'm now continuing my work for the ECB as a Research Fellow. In 2022, I was a visiting phd student at the Department of Economics and Business, **Universitat Pompeu Fabra (UPF)**, for a research period in numerical methods’ applications to DSGE models, hosted by Davide Debortoli, Professor of Economics (UPF). Finally, I hold a master degree in International Economics from the University of Milano-Bicocca and a bachelor in Political Science and International affairs from the **University of Bologna**.
+My work combines structural macroeconomic modelling and empirical macroeconometrics to study monetary policy transmission, macro-financial linkages, housing markets, and prudential policy. I have worked with euro area cross-country datasets, quantitative tools for policy analysis, and technical material for institutional discussions.
 
-**Research Interests**: *Macroeconomics, Firm Dynamics, Asset Pricing*. 
+**Research interests**: monetary policy, macroeconomics, macro-finance, financial intermediation, financial stability, applied econometrics, and Bayesian methods.
 
-Born in Ravenna.
+You can find my research and policy outputs on the [Research & Policy](/cv-json/) page, teaching experience on the [Teaching](/markdown/) page, and my curriculum vitae on the [CV](/cv/) page.
 
 ![Profile Picture](images/mosaic.jfif)

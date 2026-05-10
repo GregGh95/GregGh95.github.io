@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-You can find the long version of the CV here: [CV](/files/CV_GG_git.pdf)
+You can find the long version of the CV here: [CV](/files/CV_GG_git.pdf).
 
 {% include base_path %}
 
@@ -19,20 +19,20 @@ Education
 
 Work experience
 ======
-* Febraury 2025 - ongoing: Research Fellow
+* February 2025 - present: Research Fellow
   * European Central Bank (ECB)
   * DG Macroprudential Policy and Financial Stability
-  * Macroprudential Policy division
+  * Macroprudential Policy Division
  
-* September 2025 - ongoing: Economics intern
-  * European Banking Authority
-  * Economic and Risk Analysis Department 
-  * Economic Analysis and Impact Assessment unit
+* September 2025 - present: Ph.D. Trainee
+  * European Banking Authority (EBA)
+  * Economic and Risk Analysis Department
+  * Economic Analysis and Impact Assessment Unit
 
 * January 2024 - January 2025: Ph.D. trainee
-  * European Central Bank
+  * European Central Bank (ECB)
   * DG Macroprudential Policy and Financial Stability
-  * Macroprudential Policy division
+  * Macroprudential Policy Division
   
 Teaching
 ======
