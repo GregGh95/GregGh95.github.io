@@ -13,6 +13,4 @@ My work combines structural macroeconomic modelling and empirical macroeconometr
 
 **Research interests**: monetary policy, macroeconomics, macro-finance, financial intermediation, financial stability, applied econometrics, and Bayesian methods.
 
-//You can find my research and policy outputs on the [Research & Policy](/research/) page, teaching experience on the [Teaching](/teaching/) page, and my curriculum vitae on the [CV](/cv/) page.
-
 ![Profile Picture](images/mosaic.jfif)
