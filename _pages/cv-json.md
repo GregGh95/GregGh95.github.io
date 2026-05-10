@@ -9,7 +9,7 @@ redirect_from:
 
 ## Publications
 
-* **Residential real estate (RRE) lending standards: determinants and financial stability implications** (2025), with Giorgia De Nora, Ettore Durante, Alessandro Fontana, Matteo Forletta, Barbara Jarmulska, Cristina Perales, and Valentina Scalone.  
+* **Residential real estate (RRE) lending standards: determinants and financial stability implications** (2025), with Giorgia De Nora, Elena Durante, Adele Fontana, Marco Forletta, Barbara Jarmulska, Cristian Perales, and Valerio Scalone.  
 ECB Macroprudential Bulletin, No. 29.  
 [Article](https://www.ecb.europa.eu/press/financial-stability-publications/macroprudential-bulletin/html/ecb.mpbu202506_01.it.html)  
 This article studies the determinants of residential real estate lending standards and their financial stability implications. It highlights the procyclicality of lending standards and the way loose standards can amplify adverse housing market shocks.
