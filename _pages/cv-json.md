@@ -30,7 +30,6 @@ DSGE-based analysis of risk weights shocks on bank lending and macroeconomic act
 ## Work In Progress
 
 * **Commercial Real Estate Price Dynamics and the Financial Cycle**  
-Panel Bayesian VAR analysis of financial shocks, commercial real estate dynamics, and macro-financial stability.
 
 ## Ph.D. Thesis
 
