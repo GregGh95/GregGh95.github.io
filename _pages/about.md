@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a macroeconomist with a Ph.D. in Economics and Statistics from the University of Milano-Bicocca and policy research experience at the European Central Bank and the European Banking Authority.
+I hold a Ph.D. in Economics and Statistics from the University of Milano-Bicocca and have policy research experience at the European Central Bank and the European Banking Authority.
 
 My work combines structural macroeconomic modelling and empirical macroeconometrics to study monetary policy transmission, macro-financial linkages, housing markets, and prudential policy. I have worked with euro area cross-country datasets, quantitative tools for policy analysis, and technical material for institutional discussions.
 
